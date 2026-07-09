@@ -56,3 +56,13 @@ The data preparation process included:
 - WHO regional comparison
 - Geographic map with country-level tooltips
 - Bubble chart analyzing cases YoY, deaths YoY, and death rate
+
+- ## Key Insights
+
+Analysis of WHO malaria data (2010–2017) revealed several important findings:
+
+- Global malaria mortality continued to decline throughout the study period.
+- Malaria cases and deaths remained heavily concentrated in a small number of high-burden WHO regions.
+- Regional disparities suggest targeted interventions are needed to achieve the WHO 2030 malaria elimination goal.
+- Interactive filtering enables executives to compare trends across years, regions, and countries.
+- Geographic visualization helps identify disease hotspots for resource prioritization.
