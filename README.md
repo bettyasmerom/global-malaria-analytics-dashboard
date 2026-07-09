@@ -66,3 +66,45 @@ Analysis of WHO malaria data (2010–2017) revealed several important findings:
 - Regional disparities suggest targeted interventions are needed to achieve the WHO 2030 malaria elimination goal.
 - Interactive filtering enables executives to compare trends across years, regions, and countries.
 - Geographic visualization helps identify disease hotspots for resource prioritization.
+
+- ## Dashboard Preview
+
+### Executive Dashboard
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+### Trend Analysis
+
+![Trend Analysis](images/trend-analysis.png)
+
+### Geographic Intelligence
+
+![Geographic Analysis](images/geographic-analysis.png)
+
+### Correlation Analysis
+
+![Correlation Analysis](images/correlation-analysis.png)
+
+## Repository Structure
+
+```
+global-malaria-analytics-dashboard/
+│
+├── Dashboard/
+│   ├── Malaria Dashboard.pbix
+│   └── Interactive Dashboard.html
+│
+├── Presentation/
+│   └── Global Malaria Analytics Case Study.pdf
+│
+├── SQL/
+│   └── Data Cleaning.sql
+│
+├── Images/
+│   ├── dashboard-overview.png
+│   ├── trend-analysis.png
+│   ├── geographic-analysis.png
+│   └── correlation-analysis.png
+│
+└── README.md
+```
