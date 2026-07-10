@@ -1,14 +1,40 @@
 # Global Malaria Trends Dashboard
 
 An interactive Power BI dashboard analyzing global malaria trends from 2010–2017 to evaluate progress toward the WHO 2030 malaria elimination goal.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 ## 🌐 Live Interactive Dashboard
 
-Explore the fully interactive Power BI dashboard:
+Explore the fully interactive Power BI dashboard.
 
+▶ Launch Dashboard
 **▶ [Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjY2MmRhMGUtZDJjNC00OGFkLTgzMGQtOGQ2MTE0MThlNGE0IiwidCI6IjFmNTE4YTA5LTA2ZDAtNGFmYi05YTFjLWRmZDA4NjFmNWVlNiJ9)**
+
+
 ## Project Overview
 
-This project uses WHO malaria case and mortality data to identify global trends, regional disparities, high-burden areas, and opportunities for targeted public health intervention.
+This end-to-end business intelligence case study analyzes WHO malaria case and mortality data to evaluate progress toward the WHO 2030 malaria elimination goal. The project demonstrates the complete analytics lifecycle—from data preparation and modeling to interactive dashboard development and executive recommendations supporting data-driven public health decision-making.
+
+## Business Impact
+
+This dashboard transforms complex WHO malaria data into executive-ready insights that help decision-makers:
+
+- Monitor progress toward WHO malaria elimination targets
+- Identify high-burden regions requiring intervention
+- Compare year-over-year performance
+- Support evidence-based public health resource allocation
+
+## Key Questions
+
+- Are malaria cases and deaths declining fast enough to support the WHO 2030 elimination goal?
+- Which WHO regions carry the highest malaria burden?
+- Where are cases or deaths increasing year-over-year?
+- How can data support better resource allocation?
 
 ## Tools Used
 
@@ -19,13 +45,6 @@ This project uses WHO malaria case and mortality data to identify global trends,
 - DAX
 - GitHub
 
-## Key Questions
-
-- Are malaria cases and deaths declining fast enough to support the WHO 2030 elimination goal?
-- Which WHO regions carry the highest malaria burden?
-- Where are cases or deaths increasing year-over-year?
-- How can data support better resource allocation?
-
 ## Key Deliverables
 
 - Interactive Power BI dashboard
@@ -34,12 +53,11 @@ This project uses WHO malaria case and mortality data to identify global trends,
 - DAX measures
 - Strategic recommendations
 
-- ## Dataset
+ ## Dataset
 
 The dataset was sourced from Kaggle and contains malaria case and death records by country, year, and WHO region.
 
-Dataset: Malaria Dataset by imdevskp  
-https://www.kaggle.com/datasets/imdevskp/malaria-dataset
+Dataset: [Malaria Dataset by imdevskp](https://www.kaggle.com/datasets/imdevskp/malaria-dataset)
 
 ## Data Preparation
 
@@ -61,7 +79,20 @@ The data preparation process included:
 - Geographic map with country-level tooltips
 - Bubble chart analyzing cases YoY, deaths YoY, and death rate
 
-- ## Key Insights
+## Skills Demonstrated
+
+- Business Intelligence
+- Data Cleaning
+- SQL
+- Power Query (ETL)
+- DAX
+- Dashboard Design
+- KPI Development
+- Data Visualization
+- Data Storytelling
+- Executive Reporting
+  
+ ## Key Insights
 
 Analysis of WHO malaria data (2010–2017) revealed several important findings:
 
@@ -70,9 +101,11 @@ Analysis of WHO malaria data (2010–2017) revealed several important findings:
 - Regional disparities suggest targeted interventions are needed to achieve the WHO 2030 malaria elimination goal.
 - Interactive filtering enables executives to compare trends across years, regions, and countries.
 - Geographic visualization helps identify disease hotspots for resource prioritization.
+  
+  
+## Dashboard Preview
 
-- ## Dashboard Preview
-
+Below are selected views from the interactive Power BI dashboard. For the full experience, click **Launch Dashboard** above.
 ### Executive Dashboard
 
 ![Dashboard Overview](images/dashboard-overview.png)
@@ -89,26 +122,3 @@ Analysis of WHO malaria data (2010–2017) revealed several important findings:
 
 ![Correlation Analysis](images/correlation-analysis.png)
 
-## Repository Structure
-
-```
-global-malaria-analytics-dashboard/
-│
-├── Dashboard/
-│   ├── Malaria Dashboard.pbix
-│   └── Interactive Dashboard.html
-│
-├── Presentation/
-│   └── Global Malaria Analytics Case Study.pdf
-│
-├── SQL/
-│   └── Data Cleaning.sql
-│
-├── Images/
-│   ├── dashboard-overview.png
-│   ├── trend-analysis.png
-│   ├── geographic-analysis.png
-│   └── correlation-analysis.png
-│
-└── README.md
-```
