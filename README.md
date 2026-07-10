@@ -13,7 +13,6 @@ An interactive Power BI dashboard analyzing global malaria trends from 2010–20
 
 Explore the fully interactive Power BI dashboard.
 
-▶ Launch Dashboard
 **▶ [Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjY2MmRhMGUtZDJjNC00OGFkLTgzMGQtOGQ2MTE0MThlNGE0IiwidCI6IjFmNTE4YTA5LTA2ZDAtNGFmYi05YTFjLWRmZDA4NjFmNWVlNiJ9)**
 
 
