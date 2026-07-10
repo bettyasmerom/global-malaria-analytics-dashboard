@@ -53,6 +53,12 @@ This dashboard transforms complex WHO malaria data into executive-ready insights
 - DAX measures
 - Strategic recommendations
 
+ ## Case Study Presentation
+
+View the complete consulting-style project presentation:
+
+**[Open the Global Malaria Trends Case Study](presentation/Global_Malaria_Trends_Case_Study.pdf)**
+
  ## Dataset
 
 The dataset was sourced from Kaggle and contains malaria case and death records by country, year, and WHO region.
@@ -133,7 +139,7 @@ Compare malaria deaths and year-over-year performance across WHO regions to iden
 
 ### Geographic Intelligence
 
-Explore the geographic distribution of malaria cases through an interactive map with country-level tooltips, bubble sizing by case volume, and color intensity representing disease burden.
+Explore the geographic distribution of malaria cases through an interactive map with country-level tooltips, bubble sizing by case volume, and color intensity representing death rate.
 
 ![Geographic Intelligence](images/geographic_analysis.png)
 
