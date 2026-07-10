@@ -111,7 +111,7 @@ Analysis of WHO malaria data (2010–2017) revealed several important findings:
   
 ## Dashboard Preview
 
-Below are selected views from the interactive Power BI dashboard. For the full interactive experience, click **Launch Dashboard** above.
+The following screenshots highlight key analytical views from the interactive Power BI dashboard. For the full interactive experience, click **Launch Dashboard** above.
 
 ### Executive Dashboard
 
