@@ -105,20 +105,43 @@ Analysis of WHO malaria data (2010–2017) revealed several important findings:
   
 ## Dashboard Preview
 
-Below are selected views from the interactive Power BI dashboard. For the full experience, click **Launch Dashboard** above.
+Below are selected views from the interactive Power BI dashboard. For the full interactive experience, click **Launch Dashboard** above.
+
 ### Executive Dashboard
 
-![Dashboard Overview](images/dashboard-overview.png)
+The complete executive dashboard combines KPI monitoring, trend analysis, regional comparisons, geospatial intelligence, and interactive filtering into a single decision-support tool.
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+---
 
 ### Trend Analysis
 
-![Trend Analysis](images/trend-analysis.png)
+Analyze annual malaria case trends alongside year-over-year changes in cases and deaths from 2010–2017 to evaluate overall progress toward the WHO 2030 malaria elimination goal.
+
+![Trend Analysis](images/trend_analysis.png)
+
+---
+
+### WHO Regional Comparison
+
+Compare malaria deaths and year-over-year performance across WHO regions to identify high-burden areas and regional disparities requiring targeted intervention.
+
+![Regional Comparison](images/regional_comparison.png)
+
+---
 
 ### Geographic Intelligence
 
-![Geographic Analysis](images/geographic-analysis.png)
+Explore the geographic distribution of malaria cases through an interactive map with country-level tooltips, bubble sizing by case volume, and color intensity representing disease burden.
+
+![Geographic Intelligence](images/geographic_analysis.png)
+
+---
 
 ### Correlation Analysis
 
-![Correlation Analysis](images/correlation-analysis.png)
+Analyze the relationship between year-over-year case growth, death growth, and mortality rate using an interactive bubble chart. Bubble size represents disease burden, while color intensity reflects death rate, helping identify high-risk regions and emerging hotspots.
+
+![Correlation Analysis](images/correlation_analysis.png)analysis.png)
 
