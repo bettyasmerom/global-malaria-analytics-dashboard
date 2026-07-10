@@ -2,19 +2,19 @@
 
 An interactive Power BI dashboard analyzing global malaria trends from 2010–2017 to evaluate progress toward the WHO 2030 malaria elimination goal.
 
+
+## 🌐 Live Interactive Dashboard
+
+Explore the fully interactive Power BI dashboard.
+
+**▶ [Launch Dashboard](https://app.powerbi.com/view?r=...)**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-## 🌐 Live Interactive Dashboard
-
-Explore the fully interactive Power BI dashboard.
-
-**▶ [Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjY2MmRhMGUtZDJjNC00OGFkLTgzMGQtOGQ2MTE0MThlNGE0IiwidCI6IjFmNTE4YTA5LTA2ZDAtNGFmYi05YTFjLWRmZDA4NjFmNWVlNiJ9)**
-
 
 ## Project Overview
 
@@ -57,7 +57,7 @@ This dashboard transforms complex WHO malaria data into executive-ready insights
 
 View the complete consulting-style project presentation:
 
-**[Open the Global Malaria Trends Case Study](presentation/Global_Malaria_Trends_Case_Study.pdf)**
+**▶ [Global Malaria Trends Case Study](presentation/Global_Malaria_Trends_Case_Study.pdf)**
 
  ## Dataset
 
