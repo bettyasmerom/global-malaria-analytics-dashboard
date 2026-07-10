@@ -57,7 +57,7 @@ This dashboard transforms complex WHO malaria data into executive-ready insights
 
 View the complete consulting-style project presentation:
 
-**▶ [Global Malaria Trends Case Study](presentation/Global_Malaria_Trends_Case_Study..pdf)**
+**▶ [Global Malaria Trends Case Study](presentation/Global_Malaria_Trends_Case_Study.pdf)**
 
  ## Dataset
 
