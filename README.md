@@ -143,5 +143,4 @@ Explore the geographic distribution of malaria cases through an interactive map 
 
 Analyze the relationship between year-over-year case growth, death growth, and mortality rate using an interactive bubble chart. Bubble size represents disease burden, while color intensity reflects death rate, helping identify high-risk regions and emerging hotspots.
 
-![Correlation Analysis](images/correlation_analysis.png)analysis.png)
-
+![Correlation Analysis](images/correlation_analysis.png)
